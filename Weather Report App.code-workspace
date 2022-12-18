@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Typing Speed Test Website"
+		},
+		{
+			"path": "../Bootsrap"
+		},
+		{
+			"path": "../BMI Calculator Website"
+		},
+		{
+			"path": "../Notes Website"
+		},
+		{
+			"path": "../ToDo List Website"
+		},
+		{
+			"path": "../Food Delivery Website"
+		},
+		{
+			"path": "../Gym Website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Weather Report App"
+	}
+}
