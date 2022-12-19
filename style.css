@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
     background: #222;
-    background-image: url(/img/bg8.jpg) ;
+    background-image: url('/img/bg8.jpg') ;
     background-repeat:no-repeat;
     background-size: cover;
     font-size: 120%;
